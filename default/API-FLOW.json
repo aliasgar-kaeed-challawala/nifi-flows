@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1777457019401,
+    "description" : "Gets data from weatherstack API",
+    "identifier" : "API-FLOW",
+    "lastModifiedTimestamp" : 1777457019401,
+    "name" : "API FLOW",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
